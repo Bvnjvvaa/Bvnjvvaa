@@ -2,7 +2,7 @@
 
 ## Sobre mi:
 
-- 🏢 Actualmente busco trabajo de **Administrador de bases de datos Oracle**.
+- 🏢 Actualmente busco trabajo de **Analista de bases de datos Oracle**.
 - 🎓 Estudié Ingenieria en Informatica en el instituto profesional Duoc UC.
 - 🏡 Vivo en **Santiago, Chile**.
 - ⚡ Tengo 22 años.
