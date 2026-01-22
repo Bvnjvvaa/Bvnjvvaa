@@ -31,14 +31,11 @@
 <br>
 
 <p align="left">
-  <a href="https://www.instagram.com/bvnjvvaa/" target="_blank">
+  <a href="https://www.instagram.com/bvvnjvva/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/benjaminveliz/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:benjaveliz543@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email"/>
   </a>
 </p>
 
